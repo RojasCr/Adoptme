@@ -19,7 +19,7 @@ Antes de comenzar, asegúrate de tener instalado:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/RojasCr/Adoptme.git
-   cd tu-repositorio
+   cd adoptme
    ```
 
 2. Instalar las dependencias:
@@ -34,7 +34,7 @@ Antes de comenzar, asegúrate de tener instalado:
 npm run start:dev
 
 # Modo producción
-npm run start:prod
+npm run start
 ```
 
 ## 🛣️ Endpoints principales (API Routes)
